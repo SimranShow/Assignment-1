@@ -1,0 +1,950 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Rating": "9.3",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "The Godfather",
+    "Rating": "9.2",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1972
+  },
+  {
+    "Title": "The Dark Knight",
+    "Rating": "9.0",
+    "Genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "Year": 2008
+  },
+  {
+    "Title": "The Godfather Part II",
+    "Rating": "9.0",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1974
+  },
+  {
+    "Title": "12 Angry Men",
+    "Rating": "9.0",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1957
+  },
+  {
+    "Title": "Schindler's List",
+    "Rating": "9.0",
+    "Genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "Year": 1993
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Rating": "9.0",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 2003
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Rating": "8.9",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Rating": "8.8",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 2001
+  },
+  {
+    "Title": "The Good, the Bad and the Ugly",
+    "Rating": "8.8",
+    "Genre": [
+      "Adventure",
+      "Western"
+    ],
+    "Year": 1966
+  },
+  {
+    "Title": "Forrest Gump",
+    "Rating": "8.8",
+    "Genre": [
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "Fight Club",
+    "Rating": "8.8",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 1999
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Rating": "8.8",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 2002
+  },
+  {
+    "Title": "Inception",
+    "Rating": "8.7",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Year": 2010
+  },
+  {
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Rating": "8.7",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "Year": 1980
+  },
+  {
+    "Title": "The Matrix",
+    "Rating": "8.7",
+    "Genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "Year": 1999
+  },
+  {
+    "Title": "Goodfellas",
+    "Rating": "8.7",
+    "Genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1990
+  },
+  {
+    "Title": "Spider-Man: Across the Spider-Verse",
+    "Rating": "8.7",
+    "Genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "Year": 2023
+  },
+  {
+    "Title": "Interstellar",
+    "Rating": "8.7",
+    "Genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "Year": 2014
+  },
+  {
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Rating": "8.6",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 1975
+  },
+  {
+    "Title": "Se7en",
+    "Rating": "8.6",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1995
+  },
+  {
+    "Title": "It's a Wonderful Life",
+    "Rating": "8.6",
+    "Genre": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "Year": 1946
+  },
+  {
+    "Title": "Seven Samurai",
+    "Rating": "8.6",
+    "Genre": [
+      "Action",
+      "Drama"
+    ],
+    "Year": 1954
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Rating": "8.6",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Year": 1991
+  },
+  {
+    "Title": "Saving Private Ryan",
+    "Rating": "8.6",
+    "Genre": [
+      "Drama",
+      "War"
+    ],
+    "Year": 1998
+  },
+  {
+    "Title": "City of God",
+    "Rating": "8.6",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 2002
+  },
+  {
+    "Title": "Life Is Beautiful",
+    "Rating": "8.6",
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1997
+  },
+  {
+    "Title": "The Green Mile",
+    "Rating": "8.6",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "Year": 1999
+  },
+  {
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Rating": "8.6",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "Year": 1977
+  },
+  {
+    "Title": "Terminator 2: Judgment Day",
+    "Rating": "8.6",
+    "Genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "Year": 1991
+  },
+  {
+    "Title": "Spirited Away",
+    "Rating": "8.6",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "Year": 2001
+  },
+  {
+    "Title": "Oppenheimer",
+    "Rating": "8.6",
+    "Genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "Year": 2023
+  },
+  {
+    "Title": "Harakiri",
+    "Rating": "8.6",
+    "Genre": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1962
+  },
+  {
+    "Title": "Back to the Future",
+    "Rating": "8.5",
+    "Genre": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "Year": 1985
+  },
+  {
+    "Title": "The Pianist",
+    "Rating": "8.5",
+    "Genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "Year": 2002
+  },
+  {
+    "Title": "Psycho",
+    "Rating": "8.5",
+    "Genre": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "Year": 1960
+  },
+  {
+    "Title": "Parasite",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Thriller"
+    ],
+    "Year": 2019
+  },
+  {
+    "Title": "Gladiator",
+    "Rating": "8.5",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "The Lion King",
+    "Rating": "8.5",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "L\u00e9on: The Professional",
+    "Rating": "8.5",
+    "Genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1994
+  },
+  {
+    "Title": "American History X",
+    "Rating": "8.5",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 2000
+  },
+  {
+    "Title": "The Departed",
+    "Rating": "8.5",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Year": 1998
+  },
+  {
+    "Title": "Whiplash",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Music"
+    ],
+    "Year": 2014
+  },
+  {
+    "Title": "The Prestige",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "Year": 2006
+  },
+  {
+    "Title": "The Usual Suspects",
+    "Rating": "8.5",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1995
+  },
+  {
+    "Title": "Grave of the Fireflies",
+    "Rating": "8.5",
+    "Genre": [
+      "Animation"
+    ],
+    "Year": 1988
+  },
+  {
+    "Title": "Casablanca",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "Year": 1942
+  },
+  {
+    "Title": "The Intouchables",
+    "Rating": "8.5",
+    "Genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "Year": 2011
+  },
+  {
+    "Title": "Modern Times",
+    "Rating": "8.5",
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1936
+  },
+  {
+    "Title": "Cinema Paradiso",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1988
+  },
+  {
+    "Title": "Once Upon a Time in the West",
+    "Rating": "8.5",
+    "Genre": [
+      "Western"
+    ],
+    "Year": 1968
+  },
+  {
+    "Title": "Rear Window",
+    "Rating": "8.5",
+    "Genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "Year": 1954
+  },
+  {
+    "Title": "Alien",
+    "Rating": "8.5",
+    "Genre": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "Year": 1979
+  },
+  {
+    "Title": "City Lights",
+    "Rating": "8.5",
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1931
+  },
+  {
+    "Title": "Django Unchained",
+    "Rating": "8.5",
+    "Genre": [
+      "Drama",
+      "Western"
+    ],
+    "Year": 2012
+  },
+  {
+    "Title": "Apocalypse Now",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "Year": 1979
+  },
+  {
+    "Title": "Memento",
+    "Rating": "8.4",
+    "Genre": [
+      "Mystery",
+      "Thriller"
+    ],
+    "Year": 2000
+  },
+  {
+    "Title": "Indiana Jones and the Raiders of the Lost Ark",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Adventure"
+    ],
+    "Year": 1981
+  },
+  {
+    "Title": "WALL\u00b7E",
+    "Rating": "8.4",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "Year": 2008
+  },
+  {
+    "Title": "The Lives of Others",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "Year": 2006
+  },
+  {
+    "Title": "Sunset Blvd.",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "Year": 1950
+  },
+  {
+    "Title": "Paths of Glory",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "War"
+    ],
+    "Year": 1957
+  },
+  {
+    "Title": "Avengers: Infinity War",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Year": 2018
+  },
+  {
+    "Title": "The Shining",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "Horror"
+    ],
+    "Year": 1980
+  },
+  {
+    "Title": "The Great Dictator",
+    "Rating": "8.4",
+    "Genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "Year": 1940
+  },
+  {
+    "Title": "Witness for the Prosecution",
+    "Rating": "8.4",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1957
+  },
+  {
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Rating": "8.4",
+    "Genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "Year": 2018
+  },
+  {
+    "Title": "Aliens",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Year": 1986
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Rating": "8.4",
+    "Genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "Year": 2009
+  },
+  {
+    "Title": "The Dark Knight Rises",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Drama"
+    ],
+    "Year": 2012
+  },
+  {
+    "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Rating": "8.4",
+    "Genre": [
+      "Comedy",
+      "War"
+    ],
+    "Year": 1964
+  },
+  {
+    "Title": "Oldboy",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 2003
+  },
+  {
+    "Title": "Coco",
+    "Rating": "8.4",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "Year": 2017
+  },
+  {
+    "Title": "Amadeus",
+    "Rating": "8.4",
+    "Genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "Year": 1984
+  },
+  {
+    "Title": "The Boat",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "War"
+    ],
+    "Year": 1981
+  },
+  {
+    "Title": "Avengers: Endgame",
+    "Rating": "8.4",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "Year": 2019
+  },
+  {
+    "Title": "Joker",
+    "Rating": "8.4",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "Year": 2019
+  },
+  {
+    "Title": "Your Name.",
+    "Rating": "8.4",
+    "Genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "Year": 2016
+  },
+  {
+    "Title": "3 Idiots",
+    "Rating": "8.4",
+    "Genre": [
+      "Comedy",
+      "Drama"
+    ],
+    "Year": 2009
+  },
+  {
+    "Title": "High and Low",
+    "Rating": "8.4",
+    "Genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1963
+  },
+  {
+    "Title": "Capernaum",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 2018
+  },
+  {
+    "Title": "Come and See",
+    "Rating": "8.4",
+    "Genre": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "Year": 1985
+  },
+  {
+    "Title": "Toy Story",
+    "Rating": "8.3",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "Year": 1995
+  },
+  {
+    "Title": "American Beauty",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 1999
+  },
+  {
+    "Title": "Braveheart",
+    "Rating": "8.3",
+    "Genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "Year": 1995
+  },
+  {
+    "Title": "Princess Mononoke",
+    "Rating": "8.3",
+    "Genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "Year": 1997
+  },
+  {
+    "Title": "Good Will Hunting",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama",
+      "Romance"
+    ],
+    "Year": 1997
+  },
+  {
+    "Title": "Once Upon a Time in America",
+    "Rating": "8.3",
+    "Genre": [
+      "Crime",
+      "Drama"
+    ],
+    "Year": 1984
+  },
+  {
+    "Title": "Singin' in the Rain",
+    "Rating": "8.3",
+    "Genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "Year": 1952
+  },
+  {
+    "Title": "Requiem for a Dream",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 2000
+  },
+  {
+    "Title": "Toy Story 3",
+    "Rating": "8.3",
+    "Genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "Year": 2010
+  },
+  {
+    "Title": "Star Wars: Episode VI - Return of the Jedi",
+    "Rating": "8.3",
+    "Genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "Year": 1983
+  },
+  {
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "Year": 2004
+  },
+  {
+    "Title": "2001: A Space Odyssey",
+    "Rating": "8.3",
+    "Genre": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "Year": 1968
+  },
+  {
+    "Title": "The Hunt",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 2012
+  },
+  {
+    "Title": "Reservoir Dogs",
+    "Rating": "8.3",
+    "Genre": [
+      "Crime",
+      "Thriller"
+    ],
+    "Year": 1992
+  },
+  {
+    "Title": "Ikiru",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama"
+    ],
+    "Year": 1952
+  },
+  {
+    "Title": "Lawrence of Arabia",
+    "Rating": "8.3",
+    "Genre": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "Year": 1962
+  },
+  {
+    "Title": "Citizen Kane",
+    "Rating": "8.3",
+    "Genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "Year": 1941
+  },
+  {
+    "Title": "M",
+    "Rating": "8.3",
+    "Genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "Year": 1931
+  }
+]
